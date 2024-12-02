@@ -16,6 +16,7 @@ local servers = {
   "tailwindcss",
   "ts_ls",
   "intelephense",
+  "markdown_oxide",
 }
 local nvlsp = require "nvchad.configs.lspconfig"
 
