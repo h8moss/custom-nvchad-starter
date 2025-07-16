@@ -17,6 +17,7 @@ local servers = {
   "ts_ls",
   "intelephense",
   "markdown_oxide",
+  "rust_analyzer",
 }
 local nvlsp = require "nvchad.configs.lspconfig"
 
